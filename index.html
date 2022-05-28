@@ -1,0 +1,35 @@
+<link rel="stylesheet" href="index.css">
+
+<header class="header">
+	<div class="container">
+		<div class="row-wrap">
+			<div class="logo-wrap">
+				<span class="logo">ML Model: Image Text To Speech</span>
+			</div>
+	
+			<div class="hamburger">
+				<span class="line"></span>
+				<span class="line"></span>
+				<span class="line"></span>
+			</div>
+		</div>
+	</div>
+</header>
+<div class="overlay"></div>
+
+<input type='file'  id='videoUpload' />
+
+<video id="vid" width="640" height="480" controls>
+  Your browser does not support the video tag.
+</video>
+
+<canvas id="render"></canvas>
+
+
+    <!-- Import TensorFlow.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js" type="text/javascript"></script>
+    
+    <!-- Import pre-trained MobileNet model so that we can recognize things in images  -->
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet@2.0.4"></script>
+
+    
