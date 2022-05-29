@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br>
 <div align="center">
-  <a href="https://github.com/hussaino03/ToHacks">![image](https://user-images.githubusercontent.com/49975886/170870224-e7314059-584b-46d1-9971-a9da66893d69.png)
+  ![image](https://user-images.githubusercontent.com/49975886/170870224-e7314059-584b-46d1-9971-a9da66893d69.png)
 </a>
   <h1 align="center">ToHacks</h1>
 
@@ -110,9 +110,9 @@ TBA
 <!-- ROADMAP -->
 ## Roadmap
 
--[✅] Train an Image captioning model
--[✅] Test the model on few input images
--[✅] Design a Django app to deploy the model
+* [✅] Train an Image captioning model
+* [✅] Test the model on few input images
+* [✅] Design a Django app to deploy the model
 
 <!-- LICENSE -->
 ## License
