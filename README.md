@@ -56,7 +56,8 @@
 
 ## Snapshots of Approach
 
-TBA
+<img src="https://media.discordapp.net/attachments/979814222831706195/980464116504350740/conversion.png?width=1191&height=670"></img>
+<img src="https://media.discordapp.net/attachments/979814222831706195/980464116504350740/conversion.png?width=1191&height=670"></img>
 
 ## Inspiration
 
