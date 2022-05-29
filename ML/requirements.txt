@@ -1,7 +1,0 @@
-numpy
-glob2
-opencv-python
-tensorflow
-matplotlib
-pickle5
-gTTS
