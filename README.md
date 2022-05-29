@@ -8,8 +8,7 @@
 <!-- PROJECT LOGO -->
 <br>
 <div align="center">
-  ![image]() 
-  ![Test Image 4]((https://user-images.githubusercontent.com/49975886/170870224-e7314059-584b-46d1-9971-a9da66893d69.png))
+  ![Test Image 4](https://user-images.githubusercontent.com/49975886/170870224-e7314059-584b-46d1-9971-a9da66893d69.png)
 
   <h1 align="center">ToHacks</h1>
 
