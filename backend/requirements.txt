@@ -4,5 +4,6 @@ opencv-python
 tensorflow
 matplotlib
 pickle5
+keras
 Django==3.2.12
 django-filter==21.1

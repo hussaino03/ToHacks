@@ -11,15 +11,66 @@
         integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
     <title>Image to Speech</title>
+    <style>
+        p {
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        a {
+            text-decoration: none;
+        }
+    </style>
 </head>
 
 <body>
-    <div class="text-center mt-5">
-        <h2>Converting Image to Speech</h2>
-        Nice documentation here
-    </div>
-    <div class="text-center mt-2">
-        <a href="/image_upload">Convert Now</a>
+    <div class="mt-5">
+        <h2 class="text-center">Converting Image to Speech</h2>
+        <div class="text-center mt-2">
+            <a class="btn btn-primary" href="/image_upload">Convert Now</a>
+        </div>
+        <div class="mt-3">
+            <h3 class="mt-2 text-center">## Inspiration</h3>
+            <p >In today's fast paced world there is hardly any time for people on the road to observe the surroundings
+                and
+                help
+                the needy. However, the technology has successfully advanced well that the blind need not depend on any
+                other
+                person to perform their day to day activities. Guide Mobile is similar to that of a guide dog but it
+                will
+                help
+                you to experience the scenery before you as if someone speaks with you.</p>
+
+            <h3 class="mt-2 text-center">## What it does</h3>
+            <p >Guide Mobile which is a web app takes an image as input, and it provides a speech as an output where the
+                sentence is generated with an image captioning algorithm.</p>
+
+            <h3 class="mt-2 text-center">## How we built it</h3>
+            <p >The image captioning model was built with tensorflow library. The model was trained on the flick8k image
+                captioning dataset. The overall accuracy of the model was around 80%. There was extensive data
+                preprocessing
+                for
+                the images as well as the corresponding text data and there was use of both Convolutional and Sequential
+                networks. We are deploying the model on web app with Django MVT.</p>
+
+            <h3 class="mt-2 text-center">## Challenges we ran into</h3>
+            <p >The dataset provided with very limited images hence the output is not accurate for all the real world
+                scenarios.
+                Backend development was something new which under the limited time was challenging to build.</p>
+
+            <h3 class="mt-2 text-center">## Accomplishments that we're proud of</h3>
+            <p >We were able to deploy the web app and test it successfully on images. The outputs for most of the cases
+                yielded
+                fruitful results.</p>
+
+            <h3 class="mt-2 text-center">## What we learned</h3>
+            <p >Learned to maintain ML models and deploy them. Also learned to version the progress and develop robust
+                backend
+                for the website.</p>
+
+            <h3 class="mt-2 text-center">## What's next for Guide Mobile</h3>
+            <p >Adding more features for the blind such as adding regional languages, networking etc.</p>
+        </div>
     </div>
 </body>
 
