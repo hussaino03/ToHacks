@@ -1,10 +1,10 @@
 
-<div id="top">
+<div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-</div>
+
 <!-- PROJECT LOGO -->
 <br>
 
