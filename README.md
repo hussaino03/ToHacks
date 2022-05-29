@@ -4,11 +4,11 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
+  ![image](https://user-images.githubusercontent.com/49975886/170871342-ee24829a-fadd-420d-b51d-aad793dda908.png)
 <!-- PROJECT LOGO -->
 <br>
 <div align="center">
-  ![image](https://user-images.githubusercontent.com/49975886/170871342-ee24829a-fadd-420d-b51d-aad793dda908.png)
+
 
 
   <h1 align="center">ToHacks</h1>
