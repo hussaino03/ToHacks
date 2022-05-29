@@ -104,13 +104,69 @@ Adding more features for the blind such as adding regional languages, networking
 * Input an image
 
 
-## Installation
-* perform ``` pip install -r requirements.txt```
-* TBA
+## **Local Setup**
 
-## Available Scripts
+* If you wish to run your own build, first ensure you have python3 globally installed in your computer. If not, you can get python [here](https://www.python.org/downloads/).
 
-TBA
+* Download [pip](https://pip.pypa.io/en/stable/installing/) and add it to the path
+
+* Clone the repository
+
+  * Using HTTPS
+
+    ```sh
+    git clone https://github.com/hussaino03/ToHacks.git
+    ```
+  
+  * Using SSH
+
+    ```sh
+    git clone git@github.com:hussaino03/ToHacks.git
+    ```
+
+* Change your working directory to the cloned folder `user-profile-ms`
+
+    ```bash
+    cd path/to/backend
+    ```
+
+* Create a new virtual environment inside `user-profile-ms` directory and activate that
+
+    ```bash
+    python -m venv env
+    ```
+
+    > ***NOTE***  
+    > By default, this will **not** include any of your existing site packages.
+
+    For activating or deactivating virtual env, take [this](https://github.com/orgs/rkhall-iitkgp/teams/opensoft-2022-team/discussions/8) for reference.
+
+* Download all the dependencies
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+    Use `pip3` if `pip` not working
+
+### For running Django Server
+
+* Migrate to the database
+
+    ```bash
+    python manage.py makemigrations
+    python manage.py migrate
+    ```
+
+    Use `python3` if `python` not working
+
+* Run server
+
+    ```sh
+    python manage.py runserver
+    ```
+
+---
 
 <!-- ROADMAP -->
 ## Roadmap
