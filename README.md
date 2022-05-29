@@ -55,10 +55,11 @@
 <!-- ABOUT THE PROJECT -->
 
 ## Snapshots of Approach
-
+<div align="center">
 <img src="https://media.discordapp.net/attachments/979814222831706195/980464116504350740/conversion.png?width=1191&height=670" width=800></img>
+<br>
 <img src="https://media.discordapp.net/attachments/979814222831706195/980464115942318100/output.png?width=1191&height=670" width=800></img>
-
+</div>
 ## Inspiration
 
 In today's fast paced world there is hardly any time for people on the road to observe the surroundings and help the needy. However, the technology has successfully advanced well that the blind need not depend on any other person to perform their day to day activities. Guide Mobile is similar to that of a guide dog but it will help you to experience the scenery before you as if someone speaks with you.
