@@ -139,8 +139,6 @@ Adding more features for the blind such as adding regional languages, networking
     > ***NOTE***  
     > By default, this will **not** include any of your existing site packages.
 
-    For activating or deactivating virtual env, take [this](https://github.com/orgs/rkhall-iitkgp/teams/opensoft-2022-team/discussions/8) for reference.
-
 * Download all the dependencies
 
     ```bash
@@ -179,6 +177,12 @@ Adding more features for the blind such as adding regional languages, networking
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+## Contributors
+
+Thanks to all the **people who contribute**
+
+![Contributors](https://contributors-img.web.app/image?repo=hussaino03/ToHacks)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
