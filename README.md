@@ -124,13 +124,13 @@ Adding more features for the blind such as adding regional languages, networking
     git clone git@github.com:hussaino03/ToHacks.git
     ```
 
-* Change your working directory to the cloned folder `user-profile-ms`
+* Change your working directory to the cloned folder `backend`
 
     ```bash
     cd path/to/backend
     ```
 
-* Create a new virtual environment inside `user-profile-ms` directory and activate that
+* Create a new virtual environment inside `backend` directory and activate that
 
     ```bash
     python -m venv env
